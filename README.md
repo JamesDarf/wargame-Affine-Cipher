@@ -27,7 +27,7 @@
 
 1. **암호문 확보**
    ```
-   my encrypted sentence > 90b36f3568323276406f35e976c1b36f...
+   my encrypted sentence > 90b36f3568323276406f35e976c1b36f.......
    ```
    암호문이 16진수(hex)로 주어졌으므로, 이를 바이트로 변환한다.
 
